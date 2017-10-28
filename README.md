@@ -1,2 +1,0 @@
-# sid
-Sistem Informasi Desa
